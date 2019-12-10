@@ -1,11 +1,16 @@
 _repo: Thirty-Degrees-Cattywonkus_60862
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60862-h/images/cover.jpg
 creator:
   author:
     agent_name: Bell, James
     gutenberg_agent_id: '51165'
     url: http://www.gutenberg.org/2009/agents/51165
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60862#Thirty-Degrees-Cattywonkus
 gutenberg_issued: '2019-12-06'
 gutenberg_type: Text
 identifiers:
